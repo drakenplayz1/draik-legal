@@ -8,13 +8,13 @@ These Terms of Service ("Terms") govern your use of the Draik Discord Bot ("Drai
 
 ## 1. Use of the Bot
 
-You are allowed to use Draik in your Discord server as long as your usage complies with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). We expect users to use Draik responsibly and not abuse its features or disrupt the experience for others.
+You are allowed to use Draik in your Discord server as long as your usage complies with Discord's [Terms of Service](https://discord.com/terms) and [Community Gu/discordcom/guidelines). We expect users to use Draik responsibly and not abuse its features or disrupt the experience for others.
 
 ---
 
 ## 2. Data Usage
 
-Draik collects limited data as described in our [Privacy Policy](https://github.com/your-username/draik-legal/PRIVACY.md). This includes server IDs, user IDs, and configuration settings necessary for the bot to function properly. We do not collect personal or sensitive data without user consent.
+Draik collects limited data as described in our [Privacy Policy](https://github.com/drakenplayz1/draik-legal/blob/main/PRIVACY.md). This includes server IDs, user IDs, and configuration settings necessary for the bot to function properly. We do not collect personal or sensitive data without user consent.
 
 ---
 
