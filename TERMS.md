@@ -1,6 +1,6 @@
 # Terms of Service for Draik Discord Bot
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [20/JUNE/2025]
 
 These Terms of Service ("Terms") govern your use of the Draik Discord Bot ("Draik", "we", "our", or "the bot"). By inviting or using Draik in your server, you agree to follow and be bound by these Terms.
 
@@ -14,7 +14,7 @@ You are allowed to use Draik in your Discord server as long as your usage compli
 
 ## 2. Data Usage
 
-Draik collects limited data as described in our [Privacy Policy](https://github.com/your-username/draik-legal/blob/main/PRIVACY.md). This includes server IDs, user IDs, and configuration settings necessary for the bot to function properly. We do not collect personal or sensitive data without user consent.
+Draik collects limited data as described in our [Privacy Policy](https://github.com/your-username/draik-legal/PRIVACY.md). This includes server IDs, user IDs, and configuration settings necessary for the bot to function properly. We do not collect personal or sensitive data without user consent.
 
 ---
 
@@ -55,4 +55,4 @@ We may update these Terms of Service at any time. Changes will be posted on this
 
 ## 8. Contact
 
-If you have any questions or concerns about these Terms, please contact us through our [Support Server](https://discord.gg/YOUR_INVITE) or email at [your@email.com].
+If you have any questions or concerns about these Terms, please contact us through our [Support Server](https://discord.gg/bGaGFbMqAV).
