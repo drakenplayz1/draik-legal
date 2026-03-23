@@ -1,58 +1,86 @@
 # Terms of Service for Draik Discord Bot
 
-**Effective Date:** [20/JUNE/2025]
+**Effective Date:** [24/March/2026]
 
-These Terms of Service ("Terms") govern your use of the Draik Discord Bot ("Draik", "we", "our", or "the bot"). By inviting or using Draik in your server, you agree to follow and be bound by these Terms.
+These Terms of Service ("Terms") govern your use of Draik ("the bot", "we", "our").
 
----
-
-## 1. Use of the Bot
-
-You are allowed to use Draik in your Discord server as long as your usage complies with Discord's [Terms of Service](https://discord.com/terms) and [Community Gu/discordcom/guidelines). We expect users to use Draik responsibly and not abuse its features or disrupt the experience for others.
+By using Draik, you agree to these Terms.
 
 ---
 
-## 2. Data Usage
+## 1. Eligibility
 
-Draik collects limited data as described in our [Privacy Policy](https://github.com/drakenplayz1/draik-legal/blob/main/PRIVACY.md). This includes server IDs, user IDs, and configuration settings necessary for the bot to function properly. We do not collect personal or sensitive data without user consent.
-
----
-
-## 3. Restrictions
-
-You are **not allowed to**:
-- Reverse engineer, decompile, or attempt to extract the source code of the bot.
-- Use the bot for harmful, abusive, illegal, or unauthorized activities.
-- Spam or exploit the bot in ways that could impact its functionality or performance.
-
-If these rules are violated, we may remove the bot from your server without prior notice.
+You must comply with:
+- Discord Terms of Service  
+- Discord Community Guidelines  
 
 ---
 
-## 4. Availability and Updates
+## 2. Acceptable Use
 
-Draik is provided "as is", and while we strive to maintain uptime and fix bugs, we do not guarantee uninterrupted service. Features may be updated, removed, or changed at any time. We also reserve the right to shut down the bot temporarily or permanently without prior warning.
+You agree to use Draik responsibly and not:
+- Abuse or exploit bot features  
+- Spam commands or systems  
+- Use the bot for illegal or harmful purposes  
 
 ---
 
-## 5. Liability
+## 3. Prohibited Actions
 
-We are not responsible for any damages, data loss, or issues that may arise from using the bot. By using Draik, you understand and agree that you do so at your own risk.
+You are strictly prohibited from:
+- Reverse engineering or copying the bot  
+- Attempting to bypass system protections  
+- Using the bot for harassment, abuse, or malicious automation  
+
+---
+
+## 4. Data Usage
+
+By using Draik, you acknowledge that:
+- Limited data is collected as described in the Privacy Policy  
+- Data is required for bot functionality  
+- No personal data is sold or shared  
+
+---
+
+## 5. Service Availability
+
+Draik is provided **"as is"**:
+- We do not guarantee uptime or error-free service  
+- Features may be updated, removed, or modified at any time  
 
 ---
 
 ## 6. Termination
 
-We reserve the right to deny access to Draik or remove the bot from any server if we believe it is being misused or if these Terms are violated.
+We reserve the right to:
+- Remove Draik from any server  
+- Restrict access to users  
+
+If:
+- These Terms are violated  
+- The bot is misused or abused  
 
 ---
 
-## 7. Changes to These Terms
+## 7. Limitation of Liability
 
-We may update these Terms of Service at any time. Changes will be posted on this page, and your continued use of the bot means you agree to the updated terms.
+We are not responsible for:
+- Data loss  
+- Misuse of the bot  
+- Any damages resulting from usage  
+
+Use Draik at your own risk.
 
 ---
 
-## 8. Contact
+## 8. Changes to Terms
 
-If you have any questions or concerns about these Terms, please contact us through our [Support Server](https://discord.gg/bGaGFbMqAV).
+We may update these Terms at any time. Continued use of Draik means you accept the updated Terms.
+
+---
+
+## 9. Contact
+
+For support or inquiries:  
+https://discord.gg/bGaGFbMqAV
