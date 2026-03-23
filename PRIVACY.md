@@ -1,6 +1,6 @@
 # Privacy Policy for Draik Discord Bot
 
-**Effective Date:** [Update this date]
+**Effective Date:** [24/March/2026]
 
 This Privacy Policy explains how Draik ("Draik", "we", "our", or "the bot") collects, uses, and protects data when you use our services.
 
