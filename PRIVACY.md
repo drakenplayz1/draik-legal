@@ -160,7 +160,7 @@ You have the right to:
 - Ask questions regarding data usage  
 
 You can contact us via our Support Server:  
-https://discord.gg/bGaGFbMqAV  
+https://discord.gg/3zvKDmNcRZ
 
 ---
 
