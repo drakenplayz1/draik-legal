@@ -83,4 +83,4 @@ We may update these Terms at any time. Continued use of Draik means you accept t
 ## 9. Contact
 
 For support or inquiries:  
-https://discord.gg/bGaGFbMqAV
+https://discord.gg/3zvKDmNcRZ
