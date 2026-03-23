@@ -1,45 +1,140 @@
 # Privacy Policy for Draik Discord Bot
 
-**Effective Date:** [20/JUNE/2025]
+**Effective Date:** [Update this date]
 
-This Privacy Policy explains what data the Draik Discord Bot ("Draik", "we", or "our") collects, why we collect it, and how it is used and protected.
-
----
-
-## Consent
-
-By using the Draik bot in your Discord server or as an individual user, you agree to the terms outlined in this Privacy Policy.
+This Privacy Policy explains how Draik ("Draik", "we", "our", or "the bot") collects, uses, and protects data when you use our services.
 
 ---
 
-## Data We Collect
+## 1. Consent
 
-To provide its full functionality, Draik may collect and store certain information. This includes server IDs, channel IDs, message IDs, user IDs, and usernames with tags (like Example#1234). We also store data related to reminders created by users, custom guild settings, and personal preferences like pronouns. Additionally, if a server admin enables the message logging feature, Draik will temporarily store the content of edited or deleted messages—this is necessary because Discord itself does not make that content available. Please note that all such message data is securely stored in an encrypted database and is only collected when explicitly configured.
-
----
-
-## Purpose of Data Collection
-
-The information we collect is used solely to provide and maintain the services and features of the bot. For example, storing server and user identifiers allows Draik to remember custom configurations. Reminder and logging features rely on storing relevant data so users can interact with them over time. Message content is only collected if message logging is turned on, and is used to show changes in edited messages or recover deleted content. This helps moderators keep track of important conversations.
-
-> **All logged message content is stored in an encrypted format.**
+By inviting or using Draik in your Discord server, you agree to this Privacy Policy and the collection and use of information as described below.
 
 ---
 
-## How We Use the Information
+## 2. Data We Collect
 
-Your data is used only to operate and deliver Draik’s services. This includes running features like reminders, moderation tools, custom settings, and logs. 
+To ensure proper functionality, Draik collects and stores the following data:
 
-> **We never sell, share, or distribute your data to any third party. Your privacy is our top priority.**
+### a) Discord Identifiers
+- User IDs
+- Server (Guild) IDs
+- Channel IDs
+- Message IDs
+
+These identifiers are required to operate bot features and store configurations.
 
 ---
 
-## Your Rights
+### b) Server Configuration Data
 
-If you would like your data to be removed or have questions about our data practices, please contact us via our [Support Server](https://discord.gg/bGaGFbMqAV).
+We store server-specific settings configured by administrators, including:
+- Automod settings  
+- Autoresponder configurations  
+- Autoreactor configurations  
+- Ticket system setup (roles, categories, permissions)  
+- Antinuke system configuration  
+- Vanity role configuration  
 
 ---
 
-## Policy Updates
+### c) Message Tracking Data
 
-This Privacy Policy may be updated from time to time. Any changes will be published here. Continued use of Draik means you agree to the latest version of this policy.
+Draik includes a message tracking system that:
+- Tracks **message counts only**
+- Does **NOT store message content**
+
+This is used for analytics, activity tracking, and moderation insights.
+
+---
+
+### d) Invite Tracking Data
+
+To support invite tracking features, Draik stores:
+- Invite metadata  
+- Information about which user invited another user  
+
+---
+
+### e) Presence-Based Vanity System
+
+If enabled by server administrators:
+- Draik may check user presence (such as custom status)
+- This is used to assign configured vanity roles  
+
+> Draik does NOT store presence content permanently.
+
+---
+
+### f) Ticket System Data
+
+For ticket functionality, Draik stores:
+- Ticket metadata (user ID, channel ID, timestamps)  
+- Ticket configuration settings  
+
+---
+
+## 3. Purpose of Data Collection
+
+We collect data strictly to:
+- Provide bot functionality  
+- Maintain server configurations  
+- Enable moderation and automation systems  
+- Support features like automod, tickets, tracking, and security  
+
+We do NOT use data for advertising, profiling, or resale.
+
+---
+
+## 4. Data Storage & Security
+
+- Data is stored securely using modern database systems (e.g., MongoDB)  
+- Access to data is restricted and protected  
+- We follow standard security practices to prevent unauthorized access  
+
+---
+
+## 5. Data Sharing
+
+We do NOT:
+- Sell user data  
+- Share data with third parties  
+- Use data for advertising  
+
+All data is used strictly for Draik's functionality.
+
+---
+
+## 6. Data Retention
+
+- Data is stored only as long as necessary  
+- Server owners may request deletion of their server data  
+
+---
+
+## 7. Your Rights
+
+You may:
+- Request data deletion  
+- Ask questions about your data  
+
+Contact us via our Support Server:  
+https://discord.gg/bGaGFbMqAV
+
+---
+
+## 8. Policy Updates
+
+We may update this Privacy Policy at any time. Continued use of Draik means you accept the updated version.
+
+---
+
+## 9. Use of Discord Intents
+
+Draik uses certain Discord Gateway Intents to provide its features:
+
+- **Guild Members Intent** is used for invite tracking, moderation systems, and ticket management.  
+- **Message Content Intent** is used for automod, autoresponder, and autoreactor systems that require reading message content to function properly.  
+- **Presence Intent** (if enabled) is used for vanity role systems based on user status.  
+
+These intents are essential for Draik’s functionality and are only used within the scope of its features.
